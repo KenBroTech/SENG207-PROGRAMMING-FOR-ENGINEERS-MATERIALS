@@ -1,0 +1,14 @@
+1. Running a python file
+python filename.py
+
+2. Declaration of variables
+
+3. Unpacking 
+
+4. Functions
+
+5. Classes and Class Inheritance
+
+6. Overwrite string method in Classes
+
+7. Files Systems and Modules
